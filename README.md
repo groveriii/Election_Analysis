@@ -1,5 +1,5 @@
 # Election_Analysis
-groveriii/Election_Analysis/Analysis/election_analysis.txt
+https://github.com/groveriii/Election_Analysis/Analysis/election_analysis.txt
 
 •	Overview of Election Audit
 •	The following analysis focuses on determining the following:
